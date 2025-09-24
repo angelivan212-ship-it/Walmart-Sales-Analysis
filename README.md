@@ -42,4 +42,4 @@ Incluye información de:
 # Cómo usar este proyecto
 1. Descarga o clona este repositorio  
    ```bash
-   git clone https://github.com/TU_USUARIO/walmart-sales-analysis.git
+   git clone https://github.com/angelivan212-ship-it/walmart-sales-analysis.git
