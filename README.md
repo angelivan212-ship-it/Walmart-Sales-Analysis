@@ -1,4 +1,5 @@
 # Walmart-Sales-Analysis
+# Descripción del proyecto
 Un análisis de las ventas por tiendas de la empresa Walmart, con base de datos proveniente de Kaggle
 
 Este proyecto analiza datos históricos de ventas semanales en diferentes tiendas de Walmart en EE.UU.
@@ -16,7 +17,7 @@ Incluye información de:
 
 ---
 
-# Objetivos del análisis
+# Objetivos del análisis/negocio
 - Analizar las ventas por tienda
 - Ver cómo cambian las ventas a lo largo del tiempo
 - Comparar semanas festivas vs. normales
